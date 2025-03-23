@@ -1,6 +1,6 @@
-# Irisclass_fromscratch
-This project implements a Decision Tree classifier from scratch to classify Iris flowers into three species based on sepal and petal features. The model uses Gini Impurity for splitting and evaluates performance on test data. 
 # Decision Tree from Scratch for Iris Classification 
+
+This project implements a Decision Tree classifier from scratch to classify Iris flowers into three species based on sepal and petal features. The model uses Gini Impurity for splitting and evaluates performance on test data. 
 
 ## Project Overview  
 This project implements a **Decision Tree classifier from scratch** to classify **Iris flowers** into three species: **Setosa, Versicolor, and Virginica**. The model is built using **recursive splitting** based on feature thresholds and evaluated using accuracy metrics.  
