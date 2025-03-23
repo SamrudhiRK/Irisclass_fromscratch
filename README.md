@@ -35,6 +35,6 @@ pip install numpy pandas matplotlib
 
 
 ## Results & Insights  
-- The **Decision Tree classifier successfully classifies Iris flowers**.  
-- The model learns from **feature splits** and performs well on test data.  
+- The Decision Tree classifier successfully classifies Iris flowers with accuracy of 100%. I have tried for 6 random states with 100% accuracy.  
+- The model learns from feature splits and performs well on test data.  
 - Decision boundaries demonstrate how different species are separated.  
